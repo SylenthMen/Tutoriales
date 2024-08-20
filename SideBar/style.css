@@ -9,7 +9,6 @@
 body {
     background: #e1e1e1;
     font-family: "Montserrat Alternates", sans-serif;
-    overflow-x: none;
     transition: background-color 0.3s, color 0.3s;
 }
 
@@ -23,9 +22,6 @@ body {
     color: #fff;
 }
 
-header {
-    display: flex;
-}
 .theme-switcher {
     display: flex;
     justify-content: center;
